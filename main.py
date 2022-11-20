@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import csv
 import random
 import time
-
+#Парсим сайтики
 #Парсим сайт coinmarketcup.csv - особенность в том, что первые 10 строк моент отдает по-иному четь все остальные.
 
 #получаем хтмл файл
